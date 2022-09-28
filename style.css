@@ -1,0 +1,95 @@
+body {
+background-color: rgb(193, 199, 184)
+}
+
+p {
+font-family: 'Times New Roman', Times, serif;
+font-size: 14px;
+}
+
+h1 {
+font-family: 'Playfair Display', serif;
+text-align: center;
+}
+
+h2{ 
+font-size: 16px;
+font-family: 'Playfair Display', serif
+}
+
+h3 {
+font-size: 16px;
+font-family: 'Playfair Display', serif
+}
+
+h4 {
+font-size: 16px;
+font-family: 'Playfair Display', serif
+}
+
+img {
+border-radius: 50%;
+}
+
+a {
+text-decoration: none;
+}
+
+.container {
+font-size: 14px;
+}
+
+.card-white1 {
+background-color: whitesmoke;
+width:1200px;
+margin:auto;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.card-white2 {
+background-color: whitesmoke;
+float:left;
+width:330px;
+margin: 65px;;
+padding:20px;
+text-align: center;
+font-family: 'Times New Roman', Times, serif
+}
+
+
+.card-white3 {
+background-color: whitesmoke;
+float:left;
+width:330px;
+margin:65px;
+padding:20px;
+text-align: center;
+font-family: 'Times New Roman', Times, serif
+}
+
+.card-white4 {
+background-color: whitesmoke ; 
+float:left;
+width:330px;
+margin:65px;
+padding:20px;
+text-align: center;
+font-family: 'Times New Roman', Times, serif
+}
+
+.button {
+background-color: darkred;
+color: whitesmoke;
+padding: 15px 19px;
+font-family: 'Playfair Display', serif
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+}
+.list-inline li {
+display: inline;
+padding: 10px;
+}
